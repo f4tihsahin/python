@@ -3,7 +3,7 @@ import fitz
  
 klasor1 = 'C:\\Users\\user\\Desktop\\pythonpdf\\klasör1'
 klasor2 = 'C:\\Users\\user\\Desktop\\pythonpdf\\klasör2'
-hedef_klasor = 'C:\\user\\root\\Desktop\\pythonpdf\\hedef_klasör'
+hedef_klasor = 'C:\\user\\user\\Desktop\\pythonpdf\\hedef_klasör'
 
 # Hedef klasörü oluşturun (eğer yoksa)
 if not os.path.exists(hedef_klasor):
