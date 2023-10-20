@@ -1,6 +1,6 @@
 import os
 import fitz
-
+ 
 klasor1 = 'C:\\Users\\user\\Desktop\\pythonpdf\\klasör1'
 klasor2 = 'C:\\Users\\user\\Desktop\\pythonpdf\\klasör2'
 hedef_klasor = 'C:\\user\\root\\Desktop\\pythonpdf\\hedef_klasör'
