@@ -1,5 +1,6 @@
 import os
 import fitz
+import shutil
  
 klasor1 = 'C:\\Users\\user\\Desktop\\pythonpdf\\klasör1'
 klasor2 = 'C:\\Users\\user\\Desktop\\pythonpdf\\klasör2'
